@@ -13,9 +13,8 @@
 
 # Publication
 For more technical details, please refer to the official paper:
-* Sánchez, R. G., Mancini, A., Nugnes, V., Fröhler, B., & Gerlinger, B. **"DIANA: Data Interactive Analysis and Navigation Application"**. *AIAA AVIATION FORUM AND ASCEND 2025* (p. 3449).  
-👉 **[Read the paper here]([https://arc.aiaa.org/doi/10.2514/6.2025-3449](https://www.researchgate.net/publication/393770335_DIANA_Data_Interactive_Analysis_and_Navigation_Application))** 
-
+* Sánchez, R. G., Mancini, A., Nugnes, V., Fröhler, B., & Gerlinger, B. **"DIANA: Data Interactive Analysis and Navigation Application"**. *AIAA AVIATION FORUM AND ASCEND 2025* (p. 3449).
+ **[Read the paper here](https://www.researchgate.net/publication/393770335_DIANA_Data_Interactive_Analysis_and_Navigation_Application)**
 ---
 
 ### 📂 Portfolio Structure
