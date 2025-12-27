@@ -21,7 +21,7 @@ For more technical details, please refer to the official paper:
 
 * **[📁 DIANA Architecture & Components](./components-guide)** A visual breakdown of the app's logical structure. Includes descriptions and screenshots of the core modules: **Data Reading, Charts generation, Dashboard generation & Automatic report**.
 
-* **[📁 DIANA Practical Example](./example-case)** A step-by-step walkthrough of a real use case. See how **CPACS/XML data** is transformed into actionable engineering insights through specific design kits.
+* **[📁 DIANA Practical Example](./example)** A step-by-step walkthrough of a real use case. See how **CPACS/XML data** is transformed into actionable engineering insights through specific design kits.
 
 * **[📁 3D Visualization Engine](./3d-engine)** A dedicated look at the **Three.js** implementation. Includes images of the **interactive 3D aircraft models** and the automated dimensioning system.
 
